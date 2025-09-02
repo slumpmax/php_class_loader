@@ -24,3 +24,12 @@ Include only the "modules/module.php" for every file.
 
 > file for class "universe\planet"  
 > This file must begin with "namespace universe;"  
+
+### Directory structure
+
+> test.php  
+> modules/module.php  
+>   
+> modules/hello/hello.php  
+> modules/universe/universe.php  
+> modules/universe/planet/planet.php  
