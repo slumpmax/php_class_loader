@@ -3,7 +3,7 @@
 Automatic include files when classes are used.  
 Include only the "modules/module.php" for every file.  
 
-## test.php
+## [test.php](https://github.com/slumpmax/php_class_loader/blob/main/src/test.php)
 > Sample usages
 
 ## modules/module.php
